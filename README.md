@@ -1,4 +1,5 @@
 # EE2026-Project
-This repository contains the codes (under the 'final' branch) for the design of an integrated sight and sound entertainment system on the Basys3 FPGA Board, written in Verilog. 
+This repository contains the codes (under the 'final' branch) for the design of an integrated sight and sound entertainment system on the Basys3 FPGA Board, using a microphone and OLED screen. The codes were written in Verilog, a hardware description language.  
+The main module is the Top_Student module, with all the other modules for the various games and functionalities instantiated within it. 
 
 Done by: Jared Cheang & Wong Zi Xin, Avellin 
